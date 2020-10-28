@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_MVCPI_Swift___Example_MVCPI_Swift___ExampleUITests : NSObject
+@end
+@implementation PodsDummy_Pods_MVCPI_Swift___Example_MVCPI_Swift___ExampleUITests
+@end

@@ -1,0 +1,6 @@
+framework module Pods_MVCPI_Swift___Example_MVCPI_Swift___ExampleUITests {
+  umbrella header "Pods-MVCPI Swift - Example-MVCPI Swift - ExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
